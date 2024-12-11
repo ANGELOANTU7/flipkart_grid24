@@ -56,10 +56,6 @@ Welcome to the **Vision-Based Smart System for Quality Assessment**, an innovati
 
 
 
-### **Sample Results**  
-
-![Sample Results](https://via.placeholder.com/800x400?text=Sample+Results)  
-
 
 ### **Future Enhancements**  
 - 🚀 Enhance active learning for real-time adaptability.  
