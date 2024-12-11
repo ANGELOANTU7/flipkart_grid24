@@ -1,9 +1,9 @@
 [submodule "flipkart_grid_backend"]
 	path = flipkart_grid_backend
 	url = git@github.com:heyronjmilton/flipkart_grid_backend.git
-[submodule "flipkart_grid_frontend"]
-	path = flipkart_grid_frontend
-	url = git@github.com:heyronjmilton/flipkart_grid_frontend.git
 [submodule "flipkart_data_ingestion_pipeline"]
 	path = flipkart_data_ingestion_pipeline
 	url = git@github.com:ANGELOANTU7/flipkart_data_ingestion_pipeline.git
+[submodule "flipkart_grid_frontend_react"]
+	path = flipkart_grid_frontend_react
+	url = git@github.com:heyronjmilton/flipkart_grid_frontend_react.git
