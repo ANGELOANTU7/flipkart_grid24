@@ -1,0 +1,8 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 15
+names: ['avg_banana', 'avg_carrot', 'avg_coriander', 'avg_lemon', 'avg_tomato', 'bad_banana', 'bad_carrot', 'bad_coriander', 'bad_lemon', 'bad_tomato', 'good_banana', 'good_carrot', 'good_coriander', 'good_lemon', 'good_tomato']
+
+
