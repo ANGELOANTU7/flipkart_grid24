@@ -1,3 +1,6 @@
 [submodule "Flipkart_Workstation_Interface"]
 	path = Flipkart_Workstation_Interface
 	url = git@github.com:ANGELOANTU7/Flipkart_Workstation_Interface.git
+[submodule "Flipkart_cloud_dataprocessing_pipelines"]
+	path = Flipkart_cloud_dataprocessing_pipelines
+	url = git@github.com:ANGELOANTU7/Flipkart_cloud_dataprocessing_pipelines.git
