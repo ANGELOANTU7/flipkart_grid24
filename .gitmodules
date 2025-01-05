@@ -4,3 +4,9 @@
 [submodule "Flipkart_cloud_dataprocessing_pipelines"]
 	path = Flipkart_cloud_dataprocessing_pipelines
 	url = git@github.com:ANGELOANTU7/Flipkart_cloud_dataprocessing_pipelines.git
+[submodule "flipkart-grid-manager-interface"]
+	path = flipkart-grid-manager-interface
+	url = git@github.com:heyronjmilton/flipkart-grid-manager-interface.git
+[submodule "flipkart-grid-datascientist-interface"]
+	path = flipkart-grid-datascientist-interface
+	url = git@github.com:heyronjmilton/flipkart-grid-datascientist-interface.git
